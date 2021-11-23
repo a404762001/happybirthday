@@ -1022,7 +1022,7 @@
 	.ly-txt14 {
 		text-indent:2em;
 		font-family: Microsoft YaHei;
-		font-size: 18px;
+		font-size: 15px;
 		font-color: #000;
 		position: absolute;
 		margin-left:30px;
@@ -1666,7 +1666,7 @@
 	}
 
 	.ly-box23 p, .ly-box21 p, .ly-box22 p {
-		font-size: 2.8vw !important;
+		font-size: 2.5vw !important;
 	}
 }
 
@@ -2072,7 +2072,7 @@
 
 .ly-txt32 {
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 14px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
